@@ -1,2 +1,2 @@
 # Hangman
-A hangman program written in javascript with a leaderboard.
+A hangman program written in javascript with a leaderboard functionality.
